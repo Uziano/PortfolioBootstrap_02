@@ -72,8 +72,8 @@ body{
  }
 
 .cv-block.block-intro .avatar{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
